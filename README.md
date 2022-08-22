@@ -24,6 +24,9 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
+Create a custom tip percentage option
+Cleaner UI
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
